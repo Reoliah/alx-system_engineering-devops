@@ -1,2 +1,3 @@
 #!/bin/bash
-tr Ac | tr Ze
+read -p Insert word:  word
+echo  | tr Ac Ze
